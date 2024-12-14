@@ -5,6 +5,11 @@
 </p>
 <h1 align="center"><span style="color:#c2f8cb;">Hi 👋, I'm Oil</span></h1>
 <h3 align="center"><span style="color:#8367c7;">I love working with data and finance, turning numbers into useful insights.</span></h3>
+<div align="center">
+  <a href="https://app.daily.dev/oilwongmayura">
+    <img src="https://api.daily.dev/devcards/v2/PAkrZJ7mUWtXQrtadUu8G.png?type=default&r=59r" width="256" alt="Oil Wongmayura's Dev Card"/>
+  </a>
+</div>
 
  
 <p align="left">
@@ -44,7 +49,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-  </br>
+  <br/>
   <img src="https://64.media.tumblr.com/ece89fcb5b72631cf76c1f517f9b9098/9fa2d86d31636773-d7/s500x750/ac9a600be2e7626f502e282d42cc7aa6816c6b06.gifv"/>
   <div align="center">
    <img src="https://www.bloggang.com/data/w/walking-in-the-rain/picture/1490186868.gif"/><br/>
