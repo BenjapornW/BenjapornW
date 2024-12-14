@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🔧 Languages and Tools:</h3>
 <p>
   <img alt="Microsoft Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -30,7 +30,7 @@
 
 </p>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjapornW&theme=dark&hide_border=false&ring=c2f8cb&fire=8367c7&currStreakLabel=8367c7&currStreakNum=c2f8cb" alt="GitHub Streak Stats" />
   <br/>
