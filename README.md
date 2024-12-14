@@ -1,4 +1,4 @@
-   [![](https://visitcount.itsvg.in/api?id=BenjapornW&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BenjapornW&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Oil</h1>
 <h3 align="center">I love working with data and finance, turning numbers into useful insights.</h3>
  
@@ -21,9 +21,11 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BenjapornW&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BenjapornW&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjapornW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjapornW&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjapornW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
