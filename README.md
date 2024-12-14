@@ -1,6 +1,11 @@
-[![](https://visitcount.itsvg.in/api?id=BenjapornW&icon=0&color=0)](https://visitcount.itsvg.in)
-<h1 align="center">Hi 👋, I'm Oil</h1>
-<h3 align="center">I love working with data and finance, turning numbers into useful insights.</h3>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=BenjapornW&icon=0&color=0" alt="Visit Count" style="color:#c2f8cb;">
+  </a>
+</p>
+<h1 align="center"><span style="color:#c2f8cb;">Hi 👋, I'm Oil</span></h1>
+<h3 align="center"><span style="color:#8367c7;">I love working with data and finance, turning numbers into useful insights.</span></h3>
+
  
 <p align="left">
 </p>
