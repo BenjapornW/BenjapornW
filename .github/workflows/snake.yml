@@ -2,15 +2,15 @@ name: GitHub Snake Game
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Run daily at midnight UTC
+  workflow_dispatch: # Allow manual triggers
   push:
     branches:
       - main
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 # Explicit runner version
     timeout-minutes: 10
 
     steps:
@@ -39,5 +39,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          create_branch: true
           commit_message: "Update snake animation [skip ci]"
