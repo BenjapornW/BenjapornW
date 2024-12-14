@@ -35,7 +35,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/benjapornw/benjapornw/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/benjapornw/benjapornw/blob/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
 </div>
 
 
