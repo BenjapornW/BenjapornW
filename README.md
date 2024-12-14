@@ -25,6 +25,14 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BenjapornW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BenjapornW&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://64.media.tumblr.com/ece89fcb5b72631cf76c1f517f9b9098/9fa2d86d31636773-d7/s500x750/ac9a600be2e7626f502e282d42cc7aa6816c6b06.gifv"/>
+  <div align="center">
+   <img src="https://www.bloggang.com/data/w/walking-in-the-rain/picture/1490186868.gif"/>
+  </div>
+</div>
+
+[![](https://visitcount.itsvg.in/api?id=BenjapornW&icon=0&color=0)](https://visitcount.itsvg.in)
+
