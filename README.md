@@ -3,7 +3,11 @@
     <img src="https://visitcount.itsvg.in/api?id=BenjapornW&icon=0&color=0" alt="Visit Count" style="color:#c2f8cb;">
   </a>
 </p>
-<h1 align="center"><span style="color:#c2f8cb;">Hi 👋, I'm Oil</span></h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=SF+Pro&size=30&pause=1000&color=56F89D&center=true&width=300&lines=++++++++++Hello%2C+I'm+Oil+%F0%9F%98%8A;Nice+to+meet+you+!+%F0%9F%92%9C" alt="Typing SVG" />
+  </a>
+</div>
 <h3 align="center"><span style="color:#8367c7;">I love working with data and finance, turning numbers into useful insights.</span></h3>
 <div align="center">
   <a href="https://app.daily.dev/oilwongmayura">
