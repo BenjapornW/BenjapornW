@@ -22,9 +22,9 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjapornW&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjapornW&theme=dark&hide_border=false&ring=c2f8cb&fire=8367c7&currStreakLabel=8367c7&currStreakNum=c2f8cb" alt="GitHub Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjapornW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjapornW&theme=dark&hide_border=false&title_color=8367c7&text_color=c2f8cb&icon_color=c2f8cb" alt="Top Languages" />
 </div>
 
 ---
