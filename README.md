@@ -10,10 +10,10 @@
     <img src="https://api.daily.dev/devcards/v2/PAkrZJ7mUWtXQrtadUu8G.png?type=default&r=59r" width="256" alt="Oil Wongmayura's Dev Card"/>
   </a>
 </div>
-
- 
 <p align="left">
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
