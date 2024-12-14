@@ -30,7 +30,9 @@
 
 </p>
 
-### 📊 GitHub Stats:
+### <img src="https://camo.githubusercontent.com/b3cda1f7a489c59254a4ccc3b3d1906dfd3ed31b251758cc80876aa9fee2473a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" weight= 25 height =25/> GitHub Stats  
+
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjapornW&theme=dark&hide_border=false&ring=c2f8cb&fire=8367c7&currStreakLabel=8367c7&currStreakNum=c2f8cb" alt="GitHub Streak Stats" />
   <br/>
