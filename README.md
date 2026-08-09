@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=BenjapornW&icon=0&color=0" alt="Visit Count" style="color:#c2f8cb;">
-  </a>
-</p>
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=SF+Pro&size=30&pause=1000&color=56F89D&center=true&width=300&lines=++++++++++Hello%2C+I'm+Oil+%F0%9F%98%8A;Nice+to+meet+you+!+%F0%9F%92%9C" alt="Typing SVG" />
@@ -34,13 +29,12 @@
 
 </p>
 
-### <img src="https://camo.githubusercontent.com/b3cda1f7a489c59254a4ccc3b3d1906dfd3ed31b251758cc80876aa9fee2473a/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" weight= 25 height =25/> GitHub Stats  
+
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjapornW&theme=dark&hide_border=false&ring=c2f8cb&fire=8367c7&currStreakLabel=8367c7&currStreakNum=c2f8cb" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenjapornW&theme=dark&hide_border=false&title_color=8367c7&text_color=c2f8cb&icon_color=c2f8cb" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BenjapornW&theme=dark&hide_border=false&ring=c2f8cb&fire=8367c7&currStreakLabel=8367c7&currStreakNum=c2f8cb" alt="GitHub Streak Stats" /> 
+
 </div>
 
 <!-- ![](./profile-3d-contrib/profile-night-green.svg) -->
@@ -54,13 +48,7 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="center">
-  <br/>
-  <img src="https://64.media.tumblr.com/ece89fcb5b72631cf76c1f517f9b9098/9fa2d86d31636773-d7/s500x750/ac9a600be2e7626f502e282d42cc7aa6816c6b06.gifv"/>
-  <div align="center">
-   <img src="https://www.bloggang.com/data/w/walking-in-the-rain/picture/1490186868.gif"/><br/>
-  </div>
-</div>
+
 
 ---
 
